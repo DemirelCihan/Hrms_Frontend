@@ -10,6 +10,7 @@ import Headline from "./Headline";
 
 export default function AboutUsLayout() {
   return (
+    //for aboutUs Layout
     <div>
       <Container className="content">
         <Headline content="About Us" />
