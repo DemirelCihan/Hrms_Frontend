@@ -70,7 +70,7 @@ export default function LinkDelete() {
                                   circular
                                   compact
                                   icon="trash"
-                                  color="pink"
+                                  color="blue"
                                   floated="right"
                                   onClick={() => handleDelete(link.id)}
                                 />
@@ -86,7 +86,7 @@ export default function LinkDelete() {
                                   circular
                                   compact
                                   icon="trash"
-                                  color="pink"
+                                  color="blue"
                                   floated="right"
                                   onClick={() => handleDelete(link.id)}
                                 />

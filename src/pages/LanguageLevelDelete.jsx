@@ -51,7 +51,7 @@ export default function LanguageLevelDelete() {
                       {resume.languageLevels.length === 0 ? (
                         <Segment raised textAlign="center">
                           <Header
-                            color="pink"
+                            color="blue"
                             content="No language has been added to the resume yet."
                           />
                         </Segment>
@@ -68,7 +68,7 @@ export default function LanguageLevelDelete() {
                                 circular
                                 compact
                                 icon="trash"
-                                color="pink"
+                                color="blue"
                                 floated="right"
                                 onClick={() => handleDelete(languageLevel.id)}
                               />

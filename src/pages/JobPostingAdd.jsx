@@ -240,7 +240,7 @@ export default function JobPostingAdd() {
                         <Label
                           basic
                           pointing
-                          color="pink"
+                          color="blue"
                           className="orbitron"
                           content={formik.errors.jobDescription}
                         />
@@ -277,7 +277,7 @@ export default function JobPostingAdd() {
                               <Label
                                 basic
                                 pointing
-                                color="pink"
+                                color="blue"
                                 className="orbitron"
                                 content={formik.errors.numberOfOpenPositions}
                               />
@@ -293,7 +293,7 @@ export default function JobPostingAdd() {
                               <Label
                                 basic
                                 pointing
-                                color="pink"
+                                color="blue"
                                 className="orbitron"
                                 content={formik.errors.closingDate}
                               />
@@ -333,7 +333,7 @@ export default function JobPostingAdd() {
                               <Label
                                 basic
                                 pointing
-                                color="pink"
+                                color="blue"
                                 className="orbitron"
                                 content={formik.errors.salaryMin}
                               />
@@ -348,7 +348,7 @@ export default function JobPostingAdd() {
                               <Label
                                 basic
                                 pointing
-                                color="pink"
+                                color="blue"
                                 className="orbitron"
                                 content={formik.errors.salaryMax}
                               />

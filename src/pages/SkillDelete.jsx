@@ -67,7 +67,7 @@ export default function SkillDelete() {
                                 circular
                                 compact
                                 icon="trash"
-                                color="pink"
+                                color="blue"
                                 floated="right"
                                 onClick={() => handleDelete(skill.id)}
                               />

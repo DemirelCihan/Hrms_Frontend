@@ -102,7 +102,7 @@ export default function LanguageLevelAdd() {
                       <Label
                         basic
                         pointing
-                        color="pink"
+                        color="blue"
                         className="orbitron"
                         content={formik.errors.language}
                       />
@@ -124,7 +124,7 @@ export default function LanguageLevelAdd() {
                       <Label
                         basic
                         pointing
-                        color="pink"
+                        color="blue"
                         className="orbitron"
                         content={formik.errors.language}
                       />

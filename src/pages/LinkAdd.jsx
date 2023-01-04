@@ -111,7 +111,7 @@ export default function LinkAdd() {
                       <Label
                         basic
                         pointing
-                        color="pink"
+                        color="blue"
                         className="orbitron"
                         content={formik.errors.url}
                       />

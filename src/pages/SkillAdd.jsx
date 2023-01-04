@@ -76,7 +76,7 @@ export default function SkillAdd() {
                       <Label
                         basic
                         pointing
-                        color="pink"
+                        color="blue"
                         className="orbitron"
                         content={formik.errors.skill}
                       />

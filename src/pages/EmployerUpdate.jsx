@@ -85,7 +85,7 @@ export default function EmployerUpdate() {
                       <Label
                         basic
                         pointing
-                        color="pink"
+                        color="blue"
                         className="orbitron"
                         content={formik.errors.companyName}
                       />
@@ -108,7 +108,7 @@ export default function EmployerUpdate() {
                       <Label
                         basic
                         pointing
-                        color="pink"
+                        color="blue"
                         className="orbitron"
                         content={formik.errors.phoneNumber}
                       />
@@ -131,7 +131,7 @@ export default function EmployerUpdate() {
                       <Label
                         basic
                         pointing
-                        color="pink"
+                        color="blue"
                         className="orbitron"
                         content={formik.errors.webAddress}
                       />
@@ -154,7 +154,7 @@ export default function EmployerUpdate() {
                       <Label
                         basic
                         pointing
-                        color="pink"
+                        color="blue"
                         className="orbitron"
                         content={formik.errors.email}
                       />
@@ -177,7 +177,7 @@ export default function EmployerUpdate() {
                       <Label
                         basic
                         pointing
-                        color="pink"
+                        color="blue"
                         className="orbitron"
                         content={formik.errors.password}
                       />

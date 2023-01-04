@@ -67,7 +67,7 @@ export default function ExperienceDeelet() {
                                 circular
                                 compact
                                 icon="trash"
-                                color="pink"
+                                color="blue"
                                 floated="right"
                                 onClick={() => handleDelete(experience.id)}
                               />

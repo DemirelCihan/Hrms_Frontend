@@ -132,7 +132,7 @@ export default function JobPostingDetail() {
                   <li>
                     <strong>Number of Open Positions</strong>
                     &nbsp;&nbsp;
-                    <Label circular color="pink" className="orbitron">
+                    <Label circular color="blue" className="orbitron">
                       {jobPosting.numberOfOpenPositions}
                     </Label>
                   </li>

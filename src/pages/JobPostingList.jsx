@@ -247,7 +247,7 @@ export default function JobPostingList({ type, itemsPerRow, id }) {
                     &nbsp;
                     <Label
                       circular
-                      color="pink"
+                      color="blue"
                       className="orbitron"
                       content={jobPosting.numberOfOpenPositions}
                     />
@@ -321,7 +321,7 @@ export default function JobPostingList({ type, itemsPerRow, id }) {
               <Button
                 circular
                 fluid
-                color="pink"
+                color="blue"
                 content="Clear Filter"
                 onClick={() => handleClearFilter()}
               />
